@@ -1,0 +1,8 @@
+
+header{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-image: linear-gradient(to right, orange , yellow, green);
+    padding-bottom: 80px;
+}
